@@ -6,7 +6,7 @@
 - 📫 How to reach me: [Facebook](https://www.facebook.com/saidul.khan2000)
 - ✉️ You can send me an email at khan_saidul@yahoo.com & saidulmursalinkhan@gmail.com
 
-<img alt="Night Coding" src="https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357" width="300" height="250" align="right"/>
+<img src="https://data.whicdn.com/images/326817490/original.gif" width="300" height="250" align="right"/>
 
 ### ⚙️ &nbsp;Languages 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC) \
