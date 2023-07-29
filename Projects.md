@@ -54,7 +54,7 @@ GitHub: <https://github.com/Saidul-M-Khan/Mentors-Society>
 
 Live Link: <https://mentors-society.netlify.app/>
 
-### **Laravel Projects:**
+### **PHP Projects:**
 
 **Just Travel (A online ticketing platform)**
 
