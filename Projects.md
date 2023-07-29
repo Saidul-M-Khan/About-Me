@@ -58,7 +58,7 @@ Live Link: <https://mentors-society.netlify.app/>
 
 **Just Travel (A online ticketing platform)**
 
-GitHub: <[https://github.com/Saidul-M-Khan/Tip-A-Blog](https://github.com/Saidul-M-Khan/just-travel-user-admin)>
+GitHub: <https://github.com/Saidul-M-Khan/just-travel-user-admin>
 
 ### **Laravel Projects:**
 
