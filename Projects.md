@@ -12,7 +12,7 @@ Live Link: <https://saidul-m-khan.github.io/TurtleRDP/>
 
 GitHub: <https://github.com/Saidul-M-Khan/Khans-Dhanda> 
 
-Live Link: [ https://khans-dhanda.netlify.app/](%20https://khans-dhanda.netlify.app/)
+Live Link: <https://khans-dhanda.netlify.app>
 
 **Honda CBR 300R Landing Page**
 
