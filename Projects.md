@@ -42,17 +42,17 @@ Live Link: <https://khansaabsstore.netlify.app/>
 
 ### **React Projects:**
 
-**Trees For Life (Tree Plantation Charity Website)**
+**G&T Shop (Online Gadget Shop)**
 
-GitHub: <https://github.com/Saidul-M-Khan/Trees-For-Life/>
+GitHub: <https://github.com/Saidul-M-Khan/g-and-t-shop>
 
-Live Link: <https://trees-4-life.netlify.app/>
+Live Link: <https://g-and-t-shop.netlify.app/>
 
-**Mentors Society (Mentor Hiring Cart)**
+**Job Hunt BD (Online Job Portal)**
 
-GitHub: <https://github.com/Saidul-M-Khan/Mentors-Society>
+GitHub: <https://github.com/Saidul-M-Khan/job-hunt-bd>
 
-Live Link: <https://mentors-society.netlify.app/>
+Live Link: <https://job-hunt-bd.netlify.app/>
 
 ### **PHP Projects:**
 
